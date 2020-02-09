@@ -825,7 +825,7 @@ h4 {
     background-image: url("img/image-de-presentation.bmp");
 }
 
-#text {
+.text {
     font-size: 18px;
 }
 
